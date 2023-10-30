@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/graterolo.github.io/curso-react-intro/static/css/main.70185d6d.css",
-    "main.js": "/graterolo.github.io/curso-react-intro/static/js/main.089e7b23.js",
-    "index.html": "/graterolo.github.io/curso-react-intro/index.html",
-    "static/media/delete.svg": "/graterolo.github.io/curso-react-intro/static/media/delete.3fa9ea46f4e88b7d225c32e61fabfac0.svg",
-    "static/media/check.svg": "/graterolo.github.io/curso-react-intro/static/media/check.25f3c1a46ab17d9a1c77c7dd813eeb12.svg",
-    "main.70185d6d.css.map": "/graterolo.github.io/curso-react-intro/static/css/main.70185d6d.css.map",
-    "main.089e7b23.js.map": "/graterolo.github.io/curso-react-intro/static/js/main.089e7b23.js.map"
+    "main.css": "./static/css/main.70185d6d.css",
+    "main.js": "./static/js/main.9ec31b59.js",
+    "index.html": "./index.html",
+    "static/media/delete.svg": "./static/media/delete.3fa9ea46f4e88b7d225c32e61fabfac0.svg",
+    "static/media/check.svg": "./static/media/check.25f3c1a46ab17d9a1c77c7dd813eeb12.svg",
+    "main.70185d6d.css.map": "./static/css/main.70185d6d.css.map",
+    "main.9ec31b59.js.map": "./static/js/main.9ec31b59.js.map"
   },
   "entrypoints": [
     "static/css/main.70185d6d.css",
-    "static/js/main.089e7b23.js"
+    "static/js/main.9ec31b59.js"
   ]
 }
